@@ -1,0 +1,9 @@
+@mixin horizontal-margin-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@mixin move-50-per-cent ($direction) {
+    position: relative;
+    #{$direction}: 50%;
+}
