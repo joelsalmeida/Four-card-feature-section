@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Mobile version - 375](screenshots\four-card-feature-section_375.png)
 
-![](./screenshot.jpg)
+![Desktop version - 1440](screenshots\four-card-feature-section_1440.png)
 
 ### Links
 
