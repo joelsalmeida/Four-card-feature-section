@@ -14,9 +14,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -30,18 +27,12 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/joelsalmeida/four-card-feature-section]
+- Live Site URL: [https://joelsalmeida.github.io/four-card-feature-section/]
 
 ## My process
 
@@ -52,59 +43,34 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Sass - Syntactically Awesome Style Sheets: [https://sass-lang.com/]
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Despite being a small project, in this my first Frontend Mentor challenge I tried to use as many of the tools and concepts I learned in CSS, HTML, and Sass as possible. "Semantic markup, grid, variables, mixins with arguments, etc."
 
-To see how you can add code snippets, see below:
+I tried naming my classes following BEM naming convention."But honestly... I don't know if I did it right"
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+This was also my first experience using Git and Github, so... Please, if you have tips on how I can improve my future projects, leave a comment.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+In the future, I would like to be more comfortable working with:
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+- Alignment of objects vertically.
+- More complex grids.
+
+I'm also studying Javascript, I hope to be able to work on more complex challenges soon.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [A Complete Guide to Grid - CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - "Our comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements."
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Site Shot](https://www.site-shot.com/) - As the name suggests... This site is for taking screenshots of web pages. "You can choose the resolution, format, and other settings"
+
+- [Box-Shadow CSS Generator - HTML-CSS-JS](https://html-css-js.com/css/generator/box-shadow/) - Creating box shadows is much easier with this tool.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- CodePen - [@joelsalmeida](https://codepen.io/joelsalmeida)
+- Frontend Mentor - [@joelsalmeida](https://www.frontendmentor.io/profile/joelsalmeida)
